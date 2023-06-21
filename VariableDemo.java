@@ -1,4 +1,4 @@
-class Variable{
+class VariableDemo{
 	public static void main(String[] args){
 		int a=4; 
 		double b=5.5;
