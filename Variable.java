@@ -5,11 +5,10 @@ class Variable{
 		char c='q';
 		boolean d=true;
 			
-	System.out.println("Integer: "+a);
-	System.out.println("Double: "+b);
-	System.out.println("Character: "+c);
-	System.out.println("Boolean: "+d);
-	
+		System.out.println("Integer: "+a);
+		System.out.println("Double: "+b);
+		System.out.println("Character: "+c);
+		System.out.println("Boolean: "+d);
 	
 	}
 }
